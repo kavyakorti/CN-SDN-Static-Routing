@@ -94,3 +94,25 @@ ryu-manager --ofp-tcp-listen-port 6633 static_routing.py
 
 ### Then:
 h1 ping -c 4 h2
+
+## Screenshots:
+ Controller output:
+<img width="756" height="572" alt="image" src="https://github.com/user-attachments/assets/0623eb3c-4e6c-4a0f-a946-f152b70c86cb" />
+  
+### Mininet nodes:
+  <img width="756" height="222" alt="image" src="https://github.com/user-attachments/assets/b4f069a4-83f9-4b12-b78c-5fac0a885eb7" />
+
+### pingall result:
+<img width="1016" height="167" alt="Screenshot 2026-04-15 001659" src="https://github.com/user-attachments/assets/2364d868-0871-4f92-b1b2-ab7bff4e0a25" />
+  
+### flow tables:
+<img width="776" height="441" alt="image" src="https://github.com/user-attachments/assets/f040cbf5-72e1-49d0-8777-2699452207f5" />
+
+### iperf:
+<img width="764" height="588" alt="Screenshot 2026-04-14 210150" src="https://github.com/user-attachments/assets/201c46d2-47fc-4cac-a922-ec4d28901889" />
+
+### failure:
+<img width="752" height="531" alt="Screenshot 2026-04-14 210208" src="https://github.com/user-attachments/assets/a1171029-8da4-406d-b18d-2b0d2c66855b" />
+  
+
+
